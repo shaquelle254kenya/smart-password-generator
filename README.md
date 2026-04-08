@@ -22,3 +22,20 @@ A Python-based tool that generates strong, secure, and customizable passwords us
 1. Clone the repository:
 ```bash
 git clone https://github.com/shaquelle254kenya/smart-password-generator.git
+cd smart-password-generator
+python password_generator.py
+```markdown
+💡 **Project Purpose**  
+This project demonstrates foundational Python skills including:
+- Functions
+- User input handling
+- Randomization
+- Basic security concepts
+
+🌍 **Future Improvements**
+- Add a graphical user interface (GUI)
+- Store generated passwords securely
+- Add password strength checker
+
+👤 **Author**  
+Collins Onyango
