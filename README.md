@@ -32,12 +32,14 @@ python password_generator.py
 💡 Project Purpose
 This project demonstrates foundational Python skills including:
 1, Functions
-2, User input handling
+2, User input
 3, Randomization
 4, Basic security concepts
+
 🌍 Future Improvements
 1, Add a graphical user interface (GUI)
 2, Store generated passwords securely
 3, Add password strength checker
+
 👤 Author
 Collins Onyango
