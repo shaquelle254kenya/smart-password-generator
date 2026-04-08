@@ -28,6 +28,7 @@ cd smart-password-generator
 
 # Run the program
 python password_generator.py
+
 💡 Project Purpose
 This project demonstrates foundational Python skills including:
 1, Functions
